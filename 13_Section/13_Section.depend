@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733004430 source:d:\c c++ kurs\c projekti\13_section\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
