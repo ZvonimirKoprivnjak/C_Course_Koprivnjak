@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735208768 source:d:\c c++ kurs\c projekti\24_section\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
