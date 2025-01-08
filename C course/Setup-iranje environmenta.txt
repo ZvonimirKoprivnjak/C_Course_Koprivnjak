@@ -1,0 +1,9 @@
+Visual code 
+https://www.youtube.com/watch?v=77v-Poud_io  
+	https://code.visualstudio.com/docs/cpp/config-mingw - instalacija compilera
+
+Code::Blocks
+https://www.youtube.com/watch?v=8DRt2CRD6X8
+
+	Tu je instalacija - https://www.codeblocks.org/downloads/binaries/
+
