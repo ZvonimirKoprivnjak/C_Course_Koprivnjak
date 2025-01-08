@@ -16,3 +16,5 @@ Attended 44 hours of lectures covering various areas of the C language:
     •	Unions
     •	Working with files
 
+https://www.udemy.com/course/c-programming-for-beginners-programming-in-c/?couponCode=NEWYEARCAREER
+
